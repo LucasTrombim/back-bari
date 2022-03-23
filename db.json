@@ -5,7 +5,30 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "quotation": {
+    "current": 102.20,
+    "code": "BARI11",
+    "daily_negociations": 39.769,
+    "daily_liquidity": 3.320.780
+  },
+  "net_worth": {
+    "total": 12.558,
+    "quote_users": 139
+  },
+  "depoiments": {
+    [
+      {
+        "user_image": "",
+        "user_name": "Rodrigo Pinheiro",
+        "user_role": "Sócio - Diretor",
+        "depoiment": "Atua como administrador estatutário, na Bari Asset, e nos Conselhos de Investimento e Compliance & Risco. Trabalhou como Head de Equities, no Banco Espírito Santo (para países Ibéricos); Latam Fund Manager, na Old Mutual Asset Managers, de Londres, e Equitiy Research, no BCG Group, em Portugal. Economista com MBA na Cranfield Business School, no Reino Unido."
+      },
+      {
+        "user_image": "",
+        "user_name": "Herculano Alves",
+        "user_role": "Sócio - Diretor de Gestão",
+        "depoiment": "Atua como diretor de gestão, na Bari Asset, e já trabalhou como Head de Renda Variável, na Bradesco Asset Management; Head de Equities, no ABN Amro Bank Brasil; Investment Manager, no Unibanco, e analista de crédito sênior, no Banco Bozano Simonsen. Hoje, é membro do Conselho de administração da TIM e Marfrig, e do Conselho fiscal da Cielo, Grendene e Metalúrgica Gerdau. Economista com mestrado pela EAESP - FGV/SP."
+      },
+    ]
   }
 }
